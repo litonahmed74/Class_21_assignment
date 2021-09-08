@@ -1,0 +1,106 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.menu-section{
+    background-color: #E5E7E9;
+}
+.active{
+    color:black!important;
+}
+.menu-section nav{
+    padding: 15px 20px;
+}
+.menu-section ul li a{
+    font-size: 23px;
+    color: gray;
+}
+.menu-section ul{
+    margin-left: 40px;
+}
+.navbar-brand{
+    font-size: 30px;
+    color: #1e90ff!important;
+}
+.sub{
+    border: 2px solid #1e90ff;
+    padding: 10px;
+    border-radius: 5px;
+    color: #1e90ff;
+}
+.sub:hover{
+    background-color: #1e90ff;
+}
+.sub:hover{
+    color: white;
+}
+.sub1{
+    height: 50px;
+    border: none;
+    border: 2px solid #AEB6BF ;
+    border-radius: 5px;
+    padding-left: 8px;
+}
+.carousel-section{
+    width: 100%;
+}
+.carousel-section img{
+    width: 100%;
+    height: 800px;
+
+}
+.carousel-caption{
+    position: absolute;
+    top: 300px;
+
+}
+/*img and block section*/
+.blockquote-section{
+    width: 100%;
+    height: 550px;
+    padding-top: 100px;
+}
+
+.img-div img{
+    border-radius: 6px;
+}
+
+/*table and form section start*/
+.table-form-section{
+    width: 100%;
+    height: 800px;
+    padding-top: 100px;
+    background-color:#F2F3F4;
+}
+
+/* card and progressbar start*/
+
+.card-progressbar{
+    width: 100%;
+    height: 830px;
+}
+.card-title h4{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+/* card with strecthed link start*/
+
+.card-with-link{
+    width: 100%;
+    height: 750px;
+    background-color:#F2F3F4;
+}
+
+/* pagination start*/
+.pagination{
+    width: 100%;
+    height: 100px;
+    padding-top: 20px;
+}
+.center{
+    
+    margin: auto;
+}
+.footer{
+
+}
